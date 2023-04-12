@@ -1,7 +1,8 @@
-# Java API Exercise
+# Database Migrations
 
 ## Learning Objectives
-- Sample
+- Use database migrations to manage changes to table structures
+- Use Flyway to manage database migrations
 
 ## Instructions
 
