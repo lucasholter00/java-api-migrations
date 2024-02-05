@@ -31,7 +31,7 @@
 
 - Then work through the process of adding scripts to migrate the database structure until you end up with a normalised database similar to the one you had in the previous activity.
 - When you have reached that point, then you can add a further script that will add in the data shown to the completed database.
-- For an extra challenge you could make use of some of the data that can be found in the datasets [here](https://datasets.imdbws.com/) to use some real data, but don't spend too long on it (also don't try to add to much data to your database).
+- For an extra challenge you could make use of some of the data that can be found in the datasets [here](https://datasets.imdbws.com/) to use some real data, but don't spend too long on it (also don't try to add too much data to your database).
 
 ## Extension Activity
 
