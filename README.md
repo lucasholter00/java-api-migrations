@@ -13,7 +13,7 @@
 ## Core Activity
 
 - Following on from the activity we did previously to build a Film Database, start by modifying your Flyway Config to point at the db/migrations directory in this project. 
-- Connect things up so that you will be creating the database on ElephantSQL as before.
+- Connect things up so that you will be creating the database on Neon as before.
 - In the migrations directory use Flyway to initially create a monolithic table to match the structure shown below.
 
 | ID | Title                 | Director               | Director Country | Star              | Star DOB   | Writer                   | Writer Email          | Year | Genre           | Score |
