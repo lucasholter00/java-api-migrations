@@ -35,5 +35,5 @@
 
 ## Extension Activity
 
-- Modify the database structure further to bring in additional tables (such as Cast) which will link together a film id with multiple actors.
 - Modify the database so that Actors, Directors and Writers are all references to a Person table (that way the same person can have multiple roles in a film.)
+- Modify the database structure further to bring in additional tables (such as Cast) which will link together a film id with multiple actors.
