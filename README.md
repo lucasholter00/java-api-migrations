@@ -12,8 +12,8 @@
 
 ## Core Activity
 
-- Following on from the activity we did previously to build a Film Database, start by modifying your Flyway Config to point at the db/migrations directory in this project. 
-- Connect things up so that you will be creating the database on Neon as before.
+- We are going to build a Film Database, make sure you have your Flyway Config set to point at the db/migrations directory in this project. 
+- Connect things up so that you will be creating the database on Neon.
 - In the migrations directory use Flyway to initially create a monolithic table to match the structure shown below.
 
 | ID | Title                 | Director               | Director Country | Star              | Star DOB   | Writer                   | Writer Email          | Year | Genre           | Score |
@@ -29,8 +29,8 @@
 | 9  | Three Colours: Blue   | Krzysztof Kieslowski   | Poland           | Juliette Binoche  | 09/03/1964 | Krzysztof Kieslowski     | email@email.com       | 1993 | Drama           | 8     |
 | 10 | Cyrano de Bergerac    | Jean-Paul Rappeneau    | France           | Gerard Depardieu  | 27/12/1948 | Edmond Rostand           | edmond@rostand.com    | 1990 | Historical      | 9     |
 
-- Then work through the process of adding scripts to migrate the database structure until you end up with a normalised database similar to the one you had in the previous activity.
-- When you have reached that point, then you can add a further script that will add in the data shown to the completed database.
+- Then work through the process of adding scripts to migrate the database structure until you end up with a normalised database with a number of tables in it.
+- When you have reached that point, then you can add a further script that will add in the data shown to the completed database, make sure the data is inserted into the correct tables.
 - For an extra challenge you could make use of some of the data that can be found in the datasets [here](https://datasets.imdbws.com/) to use some real data, but don't spend too long on it (also don't try to add too much data to your database).
 
 ## Extension Activity
